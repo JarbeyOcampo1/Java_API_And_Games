@@ -35,4 +35,14 @@ These are the following games with their id
     * 8: American Truck Simulator
     * 9: Apex Legends
     * 10: ARK Survival Evolved
+    * 11: Marvel’s Spider-Man Remastered
+    * 12: Marvel’s Spider-Man Miles Morales
+    * 13: Marvel’s Spider-Man 2
+    * 14: The Binding of Isaac Rebirth
+    * 15: Borderlands 3
+    * 16: Broforce
+    * 17: CounterSide
+    * 18: Cult of the Lamb
+    * 19: Dead Cells
+    * 20: Dead Island Riptide Definitive Edition
  ```
