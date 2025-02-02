@@ -50,4 +50,9 @@ These are the following games with their id
     * 23: Ace Combat 7 Skies Unknown
     * 24: Age of Empires II Definitive Edition
     * 25: Aliens Colonial Marines Collection
+    * 26: Aliens vs Predator
+    * 27: Aragami
+    * 28: ATLYSS
+    * 29: Black Desert
+    * 30: Black Mesa
  ```
