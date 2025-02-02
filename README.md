@@ -45,4 +45,9 @@ These are the following games with their id
     * 18: Cult of the Lamb
     * 19: Dead Cells
     * 20: Dead Island Riptide Definitive Edition
+    * 21: Deep Rock Galactic
+    * 22: Deus Ex Human Revolution
+    * 23: Ace Combat 7 Skies Unknown
+    * 24: Age of Empires II Definitive Edition
+    * 25: Aliens Colonial Marines Collection
  ```
