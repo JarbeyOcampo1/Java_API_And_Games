@@ -19,7 +19,7 @@ Designed with java contains in .json format the characteristics of:
 You can use
    * Postman
    * Thunder client
-to be able to observe the data and the port
+     to be able to observe the data and the port
    * http://localhost:8080/api/game
 
 =====================
