@@ -55,4 +55,10 @@ These are the following games with their id
     * 28: ATLYSS
     * 29: Black Desert
     * 30: Black Mesa
+    * 31: Bomb Rush Cyberfunk
+    * 32: Call of Duty®  WWI
+    * 33: Child of Light 
+    * 34: CODE VEIN
+    * 35: Cooking Live  Italian Kitchen Simulator
+    * 36:
  ```
