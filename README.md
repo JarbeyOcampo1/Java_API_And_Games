@@ -16,9 +16,10 @@ Designed with java contains in .json format the characteristics of:
 * Release date
 * Description.
 
-You can use: 
-   * Postman   * Thunder client
-   to be able to observe the data and the port
+You can use / to be able to observe the data and the port
+   * Postman
+   * Thunder client
+       
    * http://localhost:8080/api/game
 
 =====================
