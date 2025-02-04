@@ -66,5 +66,10 @@ These are the following games with their id
     * 33: Child of Light 
     * 34: CODE VEIN
     * 35: Cooking Live  Italian Kitchen Simulator
-    * 36:
+    * 36: Cyberpunk 2077
+    * 37: DARK SOULS™ III
+    * 38: Delta Force
+    * 39: Devil May Cry 5
+    * 40: Disco Elysium  The Final Cut
+    * 41:
  ```
