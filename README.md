@@ -71,5 +71,10 @@ These are the following games with their id
     * 38: Delta Force
     * 39: Devil May Cry 5
     * 40: Disco Elysium  The Final Cut
-    * 41:
+    * 41: Disney Speedstorm
+    * 42: Don’t Starve Together
+    * 43: DOOM Eternal
+    * 44: Duck Game
+    * 45: Enter the Gungeon
+    * 46: 
  ```
