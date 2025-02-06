@@ -76,5 +76,10 @@ These are the following games with their id
     * 43: DOOM Eternal
     * 44: Duck Game
     * 45: Enter the Gungeon
-    * 46: 
+    * 46: Fallout Shelter
+    * 47: Far Cry 3
+    * 48: Far Cry® 6
+    * 49: FINAL FANTASY XV
+    * 50: Find Love or Die Trying
+    * 51: 
  ```
