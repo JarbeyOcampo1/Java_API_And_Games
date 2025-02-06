@@ -81,5 +81,10 @@ These are the following games with their id
     * 48: Far Cry® 6
     * 49: FINAL FANTASY XV
     * 50: Find Love or Die Trying
-    * 51: 
+    * 51: The Forest
+    * 52: Friends vs Friends
+    * 53: Garry`s Mod
+    * 54: God of War
+    * 55: Grand Theft Auto IV The Complete Edition
+    * 56:  
  ```
