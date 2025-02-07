@@ -86,5 +86,10 @@ These are the following games with their id
     * 53: Garry`s Mod
     * 54: God of War
     * 55: Grand Theft Auto IV The Complete Edition
-    * 56:  
+    * 56: Grand Theft Auto V
+    * 57: Gunfire Reborn
+    * 58: Half Life 
+    * 59: Halo Spartan Assault
+    * 60: Halo Spartan Strike
+    * 61:  
  ```
