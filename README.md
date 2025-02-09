@@ -91,5 +91,10 @@ These are the following games with their id
     * 58: Half Life 
     * 59: Halo Spartan Assault
     * 60: Halo Spartan Strike
-    * 61:  
+    * 61: Halo Wars Definitive Edition
+    * 62: HELLDIVERS™ Dive Harder Edition
+    * 63: HITMAN™ 2
+    * 64: HOT WHEELS UNLEASHED™
+    * 65: THE HOUSE OF THE DEAD Remake
+    * 66:  
  ```
