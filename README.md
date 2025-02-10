@@ -96,5 +96,10 @@ These are the following games with their id
     * 63: HITMAN™ 2
     * 64: HOT WHEELS UNLEASHED™
     * 65: THE HOUSE OF THE DEAD Remake
-    * 66:  
+    * 66: Insurgency
+    * 67: Jet Set Radio
+    * 68: Killing Floor
+    * 69: Killing Floor 2
+    * 70: Left 4 Dead
+    * 71:  
  ```
