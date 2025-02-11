@@ -101,5 +101,10 @@ These are the following games with their id
     * 68: Killing Floor
     * 69: Killing Floor 2
     * 70: Left 4 Dead
-    * 71:  
+    * 71: Left 4 Dead 2
+    * 72: Life is Strange
+    * 73: Mafia
+    * 74: Marvel Rivals
+    * 75: Metro Last Light
+    * 76:  
  ```
