@@ -106,5 +106,10 @@ These are the following games with their id
     * 73: Mafia
     * 74: Marvel Rivals
     * 75: Metro Last Light
-    * 76:  
+    * 76: Monster Hunter World
+    * 77: Moonlighter
+    * 78: MY HERO ULTRA RUMBLE
+    * 79: NARAKA BLADEPOINT
+    * 80: NEO The World Ends with You
+    * 81:  
  ```
