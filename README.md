@@ -111,5 +111,10 @@ These are the following games with their id
     * 78: MY HERO ULTRA RUMBLE
     * 79: NARAKA BLADEPOINT
     * 80: NEO The World Ends with You
-    * 81:  
+    * 81: NieR Automata™
+    * 82: Noita
+    * 83: Nubarron The adventure of an unlucky gnome
+    * 84: Once Human
+    * 85: Overwatch® 2
+    * 86:  
  ```
