@@ -116,5 +116,10 @@ These are the following games with their id
     * 83: Nubarron The adventure of an unlucky gnome
     * 84: Once Human
     * 85: Overwatch® 2
-    * 86:  
+    * 86: Paladins®
+    * 87: Palworld
+    * 88: Paragon The Overprime
+    * 89: PAYDAY 2
+    * 90: Persona 4 Golden
+    * 91:  
  ```
