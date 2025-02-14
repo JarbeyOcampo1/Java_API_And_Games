@@ -121,5 +121,10 @@ These are the following games with their id
     * 88: Paragon The Overprime
     * 89: PAYDAY 2
     * 90: Persona 4 Golden
-    * 91:  
+    * 91: Pet idle
+    * 92: Police Stories
+    * 93: Portal 2
+    * 94: Potion Craft Alchemist Simulator
+    * 95: Pumpkin Jack
+    * 96:  
  ```
