@@ -126,5 +126,10 @@ These are the following games with their id
     * 93: Portal 2
     * 94: Potion Craft Alchemist Simulator
     * 95: Pumpkin Jack
-    * 96:  
+    * 96: Red Dead Redemption 2
+    * 97: Resident Evil 2
+    * 98: Resident Evil 3
+    * 99: RESIDENT EVIL RESISTANCE
+    * 100: Rogue Company
+    * 101: 
  ```
