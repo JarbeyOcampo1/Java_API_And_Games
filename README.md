@@ -131,5 +131,10 @@ These are the following games with their id
     * 98: Resident Evil 3
     * 99: RESIDENT EVIL RESISTANCE
     * 100: Rogue Company
-    * 101: 
+    * 101: Ruined King A League of Legends Story™
+    * 102: Selene Apoptosis
+    * 103: Shatterline
+    * 104: The Sims™ 4
+    * 105: Skullgirls 2nd Encore
+    * 106:
  ```
