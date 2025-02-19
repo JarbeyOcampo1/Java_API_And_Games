@@ -136,5 +136,10 @@ These are the following games with their id
     * 103: Shatterline
     * 104: The Sims™ 4
     * 105: Skullgirls 2nd Encore
-    * 106:
+    * 106: Slay the Spire
+    * 107: SMITE®
+    * 108: Soulworker
+    * 109: South Park™ The Stick of Truth™
+    * 110: SpeedRunners
+    * 111:
  ```
