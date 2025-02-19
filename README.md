@@ -141,5 +141,10 @@ These are the following games with their id
     * 108: Soulworker
     * 109: South Park™ The Stick of Truth™
     * 110: SpeedRunners
-    * 111:
+    * 111: Spiritfarer® Edición Farewell
+    * 112: Star Trucker
+    * 113: STAR WARS™ Galactic Battlegrounds Saga
+    * 114: STAR WARS™ Republic Commando™
+    * 115: Stay Out
+    * 116:
  ```
