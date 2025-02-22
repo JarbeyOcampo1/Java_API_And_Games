@@ -146,10 +146,10 @@ These are the following games with their id
     * 113: STAR WARS™ Galactic Battlegrounds Saga
     * 114: STAR WARS™ Republic Commando™
     * 115: Stay Out
-    * 116:
-    * 117:
-    * 118:
-    * 119:
-    * 120:
-    * * 120:
+    * 116: Strinova
+    * 117: Tabletop Simulator
+    * 118: Tell Me Why
+    * 119: Terraria
+    * 120: Tina Chiquitina asalta la mazmorra del dragón una aventura única
+    * 121:
  ```
