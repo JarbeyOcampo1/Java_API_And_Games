@@ -151,5 +151,10 @@ These are the following games with their id
     * 118: Tell Me Why
     * 119: Terraria
     * 120: Tina Chiquitina asalta la mazmorra del dragón una aventura única
-    * 121:
+    * 121: tModLoader
+    * 122: Tom Clancy,s Rainbow Six® Siege
+    * 123: TUNIC
+    * 124: Ultimate Chicken Horse
+    * 125: ULTRAKILL
+    * 126:
  ```
