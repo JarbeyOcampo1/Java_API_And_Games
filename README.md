@@ -166,11 +166,5 @@ These are the following games with their id
     * **
     * **
     * **
-    * **
-    * **
-    * **
-    * **
-    * **
-    * * **
-    * **
+   
  ```
