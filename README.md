@@ -156,21 +156,12 @@ These are the following games with their id
     * 123: TUNIC
     * 124: Ultimate Chicken Horse
     * 125: ULTRAKILL
-    * 126:Vampire Survivors
-    * 127:
+    * 126: Vampire Survivors
+    * 127: WAKFU
     * 128:
     * 129:
     * 130:
     * 131:
     * **
-    * **
-    * **
-    * **
-   * **
-   * 
-   * 
-   * 
-   * 
-   * * **
-   * 
+ 
  ```
