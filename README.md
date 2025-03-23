@@ -158,7 +158,7 @@ These are the following games with their id
     * 125: ULTRAKILL
     * 126: Vampire Survivors
     * 127: WAKFU
-    * 128:
+    * 128: The Walking Dead
     * 129:
     * 130:
     * 131:
