@@ -162,8 +162,5 @@ These are the following games with their id
     * 129: Warhammer 40,000 Darktide
     * 130:
     * 131:
-    * ***
-    
-
-    
+    * *
  ```
